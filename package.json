@@ -10,5 +10,13 @@
     "palindrome"
   ],
   "author": "tarun",
-  "license": "ISC"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tarunsaisrinivas/palindrome-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Tarunsaisrinivas/palindrome-js/issues"
+  },
+  "homepage": "https://github.com/Tarunsaisrinivas/palindrome-js#readme"
 }
